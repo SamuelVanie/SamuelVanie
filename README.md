@@ -6,17 +6,17 @@ CS Engineering Student
 
 I love code, I started one year before getting into computer sciences. 
 
-I love backend dev, My favorite languages are GO and C++. My favorites techs for backend are django and LARAVEL.
+I love backend dev, My favorite languages are GO, C and RUST. My favorites techs for backend are django and LARAVEL.
 
 I love Mobile dev also, I use Flutter and Kotlin.
 
-I use Arch Linux, and Lua as scripting language on my sys.
+I use Arch Linux, and python as scripting language on my sys.
 
-* 🌍  I'm based in Côte d'Ivoire
+* 🌍  I'm based in France
 * ✉️  You can contact me at [samuelmichaelvanie@gmail.com](mailto:samuelmichaelvanie@gmail.com)
 * 🧠  I'm learning LUA and VIMSCRIPT
-* 🤝  I'm open to collaborating on FullStack Projects
-* ⚡  I gonna get a novel, don't tell anyone
+* 🤝  I'm open to collaborating on any kind of projects especially system one
+* ⚡  On my way to be one of the greatest dev, don't tell anyone
 
 
 <a href="https://www.github.com/SamuelVanie" target="_blank" rel="noreferrer"><img
